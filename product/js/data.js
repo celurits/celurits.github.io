@@ -100,5 +100,581 @@ var data = [{
             "1.png"
             ],
     "harga": "Rp. 540.000,00"
+},{
+    "code": "S2",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S3",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S4",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S5",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S6",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S7",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S8",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S9",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S10",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+},{
+    "code": "S2",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S3",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S4",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S5",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S6",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S7",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S8",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S9",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S10",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+},{
+    "code": "S2",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S3",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S4",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S5",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S6",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S7",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S8",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S9",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S10",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+},{
+    "code": "S2",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S3",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S4",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S5",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S6",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S7",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S8",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S9",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S10",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+},{
+    "code": "S2",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S3",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S4",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S5",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S6",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S7",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S8",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S9",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S10",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+},{
+    "code": "S2",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S3",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S4",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S5",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S6",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S7",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S8",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S9",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S10",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+},{
+    "code": "S2",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S3",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S4",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S5",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S6",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S7",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S8",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S9",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S10",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+},{
+    "code": "S2",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S3",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S4",
+    "categori": ["Fashion Wanita","Sepatu Lari"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S5",
+    "categori": ["Fashion Wanita","Sepatu Santai"],
+    "caption": "Sepatu Wanita Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S6",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S7",
+    "categori": ["Fashion Pria","Sepatu Lari"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S8",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S9",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
+}, {
+    "code": "S10",
+    "categori": ["Fashion Pria","Sepatu Santai"],
+    "caption": "Sepatu Pria Sneakers Sepatu Cewek CSL201",
+    "img_file": ["1.png",
+            "1.png"
+            ],
+    "harga": "Rp. 540.000,00"
 }
 ];
