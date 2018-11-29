@@ -1,61 +1,66 @@
 <!doctype html>
 <html lang="en" class="no-js">
+
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
-  	
-	<title>Munawah</title>
+	<script type="text/javascript" src="product/js/data.js"></script>
+	<script type="text/javascript" src="product/js/main.js"></script>
+	<!-- <script type="text/javascript" src="js/jsonQ.js"></script> -->
+
+	<title>Munawar Shop</title>
 </head>
+
 <body>
 	<header class="cd-morph-dropdown">
 		<a href="#0" class="nav-trigger">Open Nav<span aria-hidden="true"></span></a>
-		
+
 		<nav class="main-nav">
 			<ul>
 				<li>
-					<a href="#0">Home</a>
+					<a href="index.html" class="a-label">Home</a>
 				</li>
 
 				<li class="has-dropdown links" data-content="pricing">
-					<a href="#0">Produk</a>
+					<a href="#" class="a-label">Produk</a>
 				</li>
 
 				<li>
-					<a href="#0">Contact</a>
+					<a href="contact.html" class="a-label">Contact</a>
 				</li>
 			</ul>
 		</nav>
-		
+
 		<div class="morph-dropdown-wrapper">
 			<div class="dropdown-list">
 				<ul>
 					<li>
-						<a href="#0" class="label">Home</a>
+						<a href="index.html" class="label">Home</a>
 					</li>
 
 					<li id="pricing" class="dropdown links">
-						<a href="#0" class="label">Produk</a>
+						<a href="#" class="label">Produk</a>
 
 						<div class="content">
-							<ul>
-								<li>
+							<ul id="categories">
+								<!-- <li>
 									<h2>Services</h2>
 
 									<ul class="links-list">
-										<li><a class="a-menu-list" href="#0">Logo Design</a></li>
-										<li><a class="a-menu-list" href="#0">Branding</a></li>
-										<li><a class="a-menu-list" href="#0">Web Design</a></li>
-										<li><a class="a-menu-list" href="#0">iOS</a></li>
-										<li><a class="a-menu-list" href="#0">Android</a></li>
-										<li><a class="a-menu-list" href="#0">HTML/CSS/JS</a></li>
-										<li><a class="a-menu-list" href="#0">Packaging</a></li>
-										<li><a class="a-menu-list" href="#0">Mobile</a></li>
-										<li><a class="a-menu-list" href="#0">UI/UX</a></li>
-										<li><a class="a-menu-list" href="#0">Prototyping</a></li>
+										<li><a class="a-menu-list" href="">Logo Design</a></li>
+										<li><a class="a-menu-list" href="">Branding</a></li>
+										<li><a class="a-menu-list" href="">Web Design</a></li>
+										<li><a class="a-menu-list" href="">iOS</a></li>
+										<li><a class="a-menu-list" href="">Android</a></li>
+										<li><a class="a-menu-list" href="">HTML/CSS/JS</a></li>
+										<li><a class="a-menu-list" href="">Packaging</a></li>
+										<li><a class="a-menu-list" href="">Mobile</a></li>
+										<li><a class="a-menu-list" href="">UI/UX</a></li>
+										<li><a class="a-menu-list" href="">Prototyping</a></li>
 									</ul>
 								</li>
 
@@ -63,20 +68,21 @@
 									<h2>Projects</h2>
 
 									<ul class="links-list">
-										<li><a class="a-menu-list" href="#0">Logo Design</a></li>
-										<li><a class="a-menu-list" href="#0">Branding</a></li>
-										<li><a class="a-menu-list" href="#0">Web Design</a></li>
-										<li><a class="a-menu-list" href="#0">iOS</a></li>
-										<li><a class="a-menu-list" href="#0">Android</a></li>
-										<li><a class="a-menu-list" href="#0">HTML/CSS/JS</a></li>
+										<li><a class="a-menu-list" href="">Logo Design</a></li>
+										<li><a class="a-menu-list" href="">Branding</a></li>
+										<li><a class="a-menu-list" href="">Web Design</a></li>
+										<li><a class="a-menu-list" href="">iOS</a></li>
+										<li><a class="a-menu-list" href="">Android</a></li>
+										<li><a class="a-menu-list" href="">HTML/CSS/JS</a></li>
 									</ul>
-								</li>
+								</li> -->
 							</ul>
 						</div>
+						<script type="text/javascript" src="js/load-menu.js"></script>
 					</li>
 
 					<li>
-						<a href="#0" class="label">Contact</a>
+						<a href="contact.html" class="label">Contact</a>
 					</li>
 				</ul>
 
@@ -87,292 +93,32 @@
 
 	<main class="cd-main-content">
 		<div id="judul">
-			<a id="a-judul" href="index.html">DAFTAR SEMUA PRODUK</a>
+			
 		</div>
-		<div class="main-content">
-			<a class="col-product" href="">
-				<div class="img-product"> 
+		<div class="main-content" id="main-content">
+			<!-- <a class="col-product" href="">
+				<div class="img-product">
 					<img class="image" src="img/image.png" alt="IMAGE">
 				</div>
 				<div class="cap-product">
 					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
 					<p class="harga">Rp. 478.000,00</p>
 				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>	
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>	
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>	
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>	
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>	
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>	
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>	
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
-			<a class="col-product" href="">
-				<div class="img-product"> 
-					<img class="image" src="img/image.png" alt="IMAGE">
-				</div>
-				<div class="cap-product">
-					<p class="caption">Sepatu Wanita Sneakers Sepatu Cewek CSL201</p>
-					<p class="harga">Rp. 478.000,00</p>
-				</div>
-			</a>
+			</a> -->
 		</div>
 	</main>
 
 	<footer>
 		<div id="div-footer">
-			@Munawar
-		</div>	
+			Copyright &copy; 2018-2019 &#9993; munawar@gmail.com
+		</div>
 	</footer>
-<script src="js/jquery.min.js"></script>
-<script>
-	if( !window.jQuery ) document.write('<script src="js/jquery-3.0.0.min.js"><\/script>');
-</script>
-<script src="js/modernizr-custom.js"></script>
-<script src="js/main.js"></script>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script>
+		if (!window.jQuery) document.write('<script type="text/javascript" src="js/jquery-3.0.0.min.js"><\/script>');
+	</script>
+	<script type="text/javascript" src="js/modernizr-custom.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
 </body>
+<script type="text/javascript" src="product/js/list_data.js"></script>
 </html>

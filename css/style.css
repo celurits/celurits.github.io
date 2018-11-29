@@ -124,6 +124,10 @@ body {
   font-size: 2.2rem;
   color: #1A1A1A;
   margin-bottom: .8em;
+  text-decoration: none;
+}
+.a-label {
+  text-decoration: none;  
 }
 .cd-morph-dropdown .content li::after {
   clear: both;
@@ -197,6 +201,7 @@ body {
   font-weight: bold;
   font-size: 1.3rem;
   margin: 20px 0 10px 14px;
+  text-decoration: none;
 }
 
 
@@ -456,17 +461,19 @@ Main site content
 #judul {
   border-bottom: 2px solid white;
   margin: 0 0 15px 0;
-}
-
-#a-judul {
-  text-decoration: none;
-  color: rgb(143, 209, 195);
+  color: rgb(206, 235, 227);
   font-size: 2rem;
   font-weight: bold;
   font-family: sans-serif;
 }
 
+#a-judul {
+  text-decoration: none;
+  color: rgb(143, 209, 195);
+}
+
 .main-content {
+  min-height: 50vh;
   /* background-color: rgb(218, 101, 101); */
   /* width: 90%;   */
   margin: 0 auto;
@@ -546,6 +553,7 @@ footer {
   background-color: #2b6e5d;
   text-align: center;
   color: white;
+  padding: 10px;
 }
 
 /* ketika lebih kecil dari 1500 */
